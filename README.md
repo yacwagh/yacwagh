@@ -6,7 +6,7 @@ I'm a student in computer science and cybersecurity based in France.
 
 Currently improving my skills in Web hacking, Programming and Forensics.<br />
 
-### My most recent projects 😃🧾
+### My most recent projects 😃💻
 - [Rust analysis with Ocaml](https://github.com/yaceno/Rust-analysis)
 - [XSS detector](https://github.com/yaceno/XSShigeno)
 - [Crumby](https://github.com/yaceno/Crumby)
