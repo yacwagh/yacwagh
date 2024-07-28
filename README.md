@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-I'm a student in computer science and cybersecurity based in France.
+Student and computer science and cybersecurity based in France.
 
 ### What I'm focusing on 👨‍💻
 
