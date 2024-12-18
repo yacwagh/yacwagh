@@ -2,6 +2,6 @@
 
 - Security researcher
 - I love building 🤖 things ⚡
-- I develop mostly in 🐍
+- I mostly develop in 🐍
 - Interested in : web security, ai security and low level stuff
 - Feel free to reach out ;)
