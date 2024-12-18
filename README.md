@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-Security researcher
-
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=yaceno)
+- Security researcher
+- I love building 🤖 things ⚡
+- I develop mostly in 🐍
+- Interested in : web security and low level stuff
+- Feel free to reach out ;)
