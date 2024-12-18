@@ -3,5 +3,5 @@
 - Security researcher
 - I love building 🤖 things ⚡
 - I develop mostly in 🐍
-- Interested in : web security and low level stuff
+- Interested in : web security, ai security and low level stuff
 - Feel free to reach out ;)
