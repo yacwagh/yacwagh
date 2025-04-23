@@ -2,5 +2,4 @@
 
 - Security engineer
 - Building between AI & Security
-- Interested in : well, everything.
 - Feel free to reach out ;)
