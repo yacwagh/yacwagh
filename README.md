@@ -2,4 +2,4 @@
 
 - Security engineer
 - Building between AI & Security
-- Feel free to reach out ;)
+- Can you guess where the photo of my pfp was taken ?
