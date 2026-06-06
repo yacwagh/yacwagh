@@ -1,3 +1,3 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-AI Pentest at Escape (YC W23) ⚡
+Self-improving AI Pentest at Escape (YC W23) ⚡
